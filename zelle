@@ -2,4 +2,4 @@ echo "Welcome to landmark"
 echo " Please enter your username"
 read username
 echo "enter your password"
-echo "Thank you for using zelle"
+echo "Thank you for using zelle mobile app"
